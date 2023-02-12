@@ -29,3 +29,11 @@ The customer is expecting the following functionality:
 
 Created a Search box at top of the table to search through the Opportunity Stage, Account Name or Contact Name and filter result on basis of input value.
 If there is any record cannot be displayed to the user in the given table cell then the contents of the same should be masked with just the first three characters viewable to the end users.        
+
+
+![Full](https://user-images.githubusercontent.com/103774658/218329641-61dd1d82-f4a9-4960-9df8-ba0831a81a6f.png)
+![Opportunity Name Search](https://user-images.githubusercontent.com/103774658/218329656-bf377296-0404-490c-92df-f936ccca3f26.png)
+![Description Search](https://user-images.githubusercontent.com/103774658/218329660-28fb67c5-eabc-482e-bfce-b4196f2eb311.png)
+![Email Search](https://user-images.githubusercontent.com/103774658/218329665-a6d0f0ac-7efa-4499-9656-9191733ab398.png)
+![Contact no search](https://user-images.githubusercontent.com/103774658/218329670-4f174488-0bac-4975-9c4d-4f7aab89f8b2.png)
+![Date Search](https://user-images.githubusercontent.com/103774658/218329663-6ebeb357-5009-4a45-bdbd-d7bdadf4e6f9.png)
