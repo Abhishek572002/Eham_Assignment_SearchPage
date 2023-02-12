@@ -13,3 +13,19 @@
                   5.The code will now be rendered in the browser, and you can interact with it.
                   6.You can also view the HTML code by opening the file in a browser and right-clicking on the page
                    and selecting "View page source."
+
+
+###Scenario:
+The customer wants to have the ability to search for opportunities and contacts in a custom manner. As part of the search table, the customer expects the below fields:
+
+Opportunity Name (Text)
+Opportunity Description (Text)
+Opportunity Close Date (Date)
+Associated Account Name (Text)
+Name of most Recent Contact associated to Opportunity’s Account (Text)
+Contact Email of most Recent created Contact associated to Opportunity’s Account (Text)
+Contact Number of most Recent created Contact associated to Opportunity’s Account (Phone Number)
+The customer is expecting the following functionality:
+
+Created a Search box at top of the table to search through the Opportunity Stage, Account Name or Contact Name and filter result on basis of input value.
+If there is any record cannot be displayed to the user in the given table cell then the contents of the same should be masked with just the first three characters viewable to the end users.        
