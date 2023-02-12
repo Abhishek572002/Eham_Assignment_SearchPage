@@ -3,7 +3,7 @@
          This is an HTML,Css, JavaScript Website for a webpage which contains a table with search fields and several table rows. The search fields are placed in the head of the table, while the rows contain the data to be displayed in the table. The webpage also includes a stylesheet named "style.css" which is linked to the HTML code using the "link" element in the "head" section. The table rows consist of columns that show Opportunity Name, Opportunity Description, Opportunity Close Date, Account Email, Associated Account Name, and Contact Number.
 
 
-###Requirement
+###**Requirement**
                   To launch this HTML code, you need to save it in a .html file and then open it in a web browser. Here are the steps to launch the code:
 
                   1.Open a text editor such as Notepad, Sublime Text, or Visual Studio Code.
@@ -15,7 +15,7 @@
                    and selecting "View page source."
 
 
-###Scenario:
+**Scenario:**
 The customer wants to have the ability to search for opportunities and contacts in a custom manner. As part of the search table, the customer expects the below fields:
 
 Opportunity Name (Text)
